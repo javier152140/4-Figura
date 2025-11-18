@@ -49,7 +49,6 @@ html, body {
 
 .b {
   background-color: aqua;
-  border-right: 2px solid white; /* línea entre B y C */
 }
 
 .c {
